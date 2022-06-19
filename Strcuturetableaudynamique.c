@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#define MAX_JOUEUR 100
 
 typedef struct joueur joueur;
 struct joueur {
